@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 984,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Apple Music Offering Free Three-Month Trial for a Limited Time",
+    "description": "Apple is offering an extended three-month free Apple Music trial for new users over the summer, provided they haven't been a subscriber to the streaming service before.\n\n\n\n\n\n‌Apple Music‌ typically offers a one-month free trial for new subscribers since it wa…",
+    "url": "https://www.macrumors.com/2024/08/20/apple-music-free-three-month-trial/",
+    "urlToImage": "https://images.macrumors.com/t/cBpeJ95wekMRm8-YbPPJQhJrDsY=/1920x/article-new/2024/08/apple-music.jpg",
+    "publishedAt": "2024-08-20T12:56:29Z",
+    "content": "Apple is offering an extended three-month free Apple Music trial for new users over the summer, provided they haven't been a subscriber to the streaming service before.\r\nApple Music typically offers … [+892 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "macOS Sequoia Has New FaceTime Backgrounds Showcasing Apple Park",
+    "description": "Apple in the second beta of macOS Sequoia 15.1 has added a set of new backgrounds for FaceTime calls that showcase features of Apple Park.\n\n\n\n\n\nThere are nine backgrounds in all, featuring iconic locations around the company's circular headquarters in Cuperti…",
+    "url": "https://www.macrumors.com/2024/08/20/macos-sequoia-new-facetime-backgrounds/",
+    "urlToImage": "https://images.macrumors.com/t/AH7LgCRE82dai24GwTtpnidUEIg=/1920x/article-new/2024/08/macos-sequoia-facetime-backgrounds.jpg",
+    "publishedAt": "2024-08-20T10:30:10Z",
+    "content": "Apple in the second beta of macOS Sequoia 15.1 has added a set of new backgrounds for FaceTime calls that showcase features of Apple Park.\r\nThere are nine backgrounds in all, featuring iconic locatio… [+1353 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "New iPhone 16 Thermal Design High on Buyers' Wishlist, Survey Suggests",
+    "description": "A recent survey conducted by SellCell suggests that a significant majority of iPhone users are planning to upgrade to the upcoming iPhone 16 series, with many expressing a preference for a better thermal design to prevent overheating issues. \n\n\n\n\n\nThe survey,…",
+    "url": "https://www.macrumors.com/2024/08/20/iphone-16-pre-launch-survey-overheating/",
+    "urlToImage": "https://images.macrumors.com/t/dQzfQzCqjlEJdrgq3QVPbLFzfeM=/3532x/article-new/2023/09/iPhone-16-Side-Feature.jpg",
+    "publishedAt": "2024-08-20T11:49:42Z",
+    "content": "A recent survey conducted by SellCell suggests that a significant majority of iPhone users are planning to upgrade to the upcoming iPhone 16 series, with many expressing a preference for a better the… [+2323 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sydney Bradley",
+    "title": "Google Maps is boring. This couple is building a new social-mapping platform focused on fun and communities.",
+    "description": "PamPam, built by ex-Google and Facebook employees, wants to be a new alternative map platform that brings people together.",
+    "url": "https://www.businessinsider.com/ex-google-employees-building-maps-app-pampam-ai-creators-social-2024-8",
+    "urlToImage": "https://i.insider.com/66c3b7e9b4912df3ae1cc7e5?width=1200&format=jpeg",
+    "publishedAt": "2024-08-20T14:15:52Z",
+    "content": "Carlo Jörges and Helena Jaramillo are building mapping platform PamPam.Courtesy of PamPam\r\n<ul><li>PamPam, a new social-mapping platform, wants to make maps more interactive and fun.</li><li>Founded … [+4994 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "John Towfighi",
+    "title": "A baby boomer from Baltimore moved to Germany 19 years ago and plans to retire there. He says free healthcare and quality of life are better than in the US.",
+    "description": "Jeffrey Park, 63,  has worked in Germany since 2005 and plans to retire there. He prefers the healthcare and quality of life abroad.",
+    "url": "https://www.businessinsider.com/baby-boomer-retire-germany-better-healthcare-quality-life-homeownership-2024-8",
+    "urlToImage": "https://i.insider.com/66bf8e135da406397bf6a301?width=1200&format=jpeg",
+    "publishedAt": "2024-08-20T10:03:01Z",
+    "content": "Jeffrey Park, 63, moved to Germany in 2005 and plans to retire in Ebergötzen, a small village in central Germany.Courtesy of Jeffrey Park\r\n<ul><li>Jeffrey Park, 63, has worked in Germany since 2005 a… [+6125 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Sarah Jackson",
+    "title": "How Reid Hoffman went from studying philosophy at Oxford to building LinkedIn",
+    "description": "Reid Hoffman, the billionaire cofounder of LinkedIn, partner at Greylock, and member of the PayPal Mafia, has emerged as a vocal figure on AI.",
+    "url": "https://www.businessinsider.com/reid-hoffman",
+    "urlToImage": "https://i.insider.com/66bc18465da406397bf5b4f2?width=1200&format=jpeg",
+    "publishedAt": "2024-08-20T09:15:02Z",
+    "content": "\"PayPal Mafia\" member Reid Hoffman is the founder of LinkedIn.Steve Jennings/Getty Images\r\n<ul><li>Reid Hoffman is the billionaire cofounder of LinkedIn and Inflection AI.</li><li>He was one of Faceb… [+9001 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Quelian Sanz",
+    "title": "El Qualcomm Snapdragon 8 Gen 4 es una bestia: ya ha superado al Apple A17 Pro y va a por el futuro A18",
+    "description": "Qualcomm está preparando uno de los procesadores más interesantes de los últimos años. El Qualcomm Snapdragon 8 Gen 4 no es una generación más con un extra de rendimiento, la compañía está desarrollándolo para que marque un antes y un después. Tanto es así, q…",
+    "url": "http://hipertextual.com/2024/08/el-qualcomm-snapdragon-8-gen-4-es-una-bestia-ya-ha-superado-al-apple-a17-pro-y-va-a-por-el-futuro-a18",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2020/12/qualcomm-windows-apple-m1.jpg",
+    "publishedAt": "2024-08-20T07:23:34Z",
+    "content": "Qualcomm está preparando uno de los procesadores más interesantes de los últimos años. El Qualcomm Snapdragon 8 Gen 4 no es una generación más con un extra de rendimiento, la compañía está desarrollá… [+1915 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Quelian Sanz",
+    "title": "Tu próximo iPhone 16 Pro tendrá un sutil cambio en la caja por primera vez en la historia",
+    "description": "Si el mes que viene vas a ser uno de los afortunados que compren un iPhone 16 Pro o 16 Pro Max, es posible que este llegue con un cambio muy sutil en la caja. No es un componente extra, la vuelta del cargador o algo relacionado con las famosas pegatinas de la…",
+    "url": "http://hipertextual.com/2024/08/tu-proximo-iphone-16-pro-tendra-un-sutil-cambio-en-la-caja-por-primera-vez-en-la-historia",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/08/iphone-india.jpg",
+    "publishedAt": "2024-08-20T11:59:50Z",
+    "content": "Si el mes que viene vas a ser uno de los afortunados que compren un iPhone 16 Pro o 16 Pro Max, es posible que este llegue con un cambio muy sutil en la caja. No es un componente extra, la vuelta del… [+1992 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slate Magazine"
+    },
+    "author": "Celeste Headlee",
+    "title": "Schools Do Too Much (Often Badly)",
+    "description": "Educating students… but for what?",
+    "url": "https://slate.com/podcasts/hearmeout/2024/08/public-schools-arent-making-the-grade",
+    "urlToImage": "https://compote.slate.com/images/63f911a6-227f-4d00-8883-a2e757cc7de8.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2024-08-20T09:00:00Z",
+    "content": "On todays episode of Hear Me Out: sharpen up.\r\nPublic schooling in this country has had a lot of champions including some that you might not expect. But did we ever actually agree on what we wanted s… [+591 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slate Magazine"
+    },
+    "author": "Mary Harris",
+    "title": "Can Kamala Harris Win “Uncommitted” Democrats?",
+    "description": "What would it take to bring “uncommitted” voters into the fold?",
+    "url": "https://slate.com/podcasts/what-next/2024/08/will-the-gaza-war-divide-the-democrats",
+    "urlToImage": "https://compote.slate.com/images/98a34592-0f8d-42f8-82d6-90e651ae5804.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2024-08-20T09:00:00Z",
+    "content": "Democrats frustrated by Joe Bidens policy towards Israel and Gaza voted for uncommitted in the primaries, notably in the crucial swing state of Michigan. Does Kamala Harris have an opportunity to rea… [+529 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slate Magazine"
+    },
+    "author": "Carvell Wallace",
+    "title": "I Feel Like the Black Sheep of My Family. How Can We Be Closer?",
+    "description": "What to do with a motley crew.",
+    "url": "https://slate.com/podcasts/how-to/2024/08/how-to-connect-with-your-family",
+    "urlToImage": "https://compote.slate.com/images/feb4d918-2efe-4d16-b62e-47505f3fedc8.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2024-08-20T10:00:00Z",
+    "content": "Kates entire family loves to go on intense, day-long hikes. Kate does not. Its just one of many differences that makes her feel like a black sheep. But Kate desperately wants to be close to her famil… [+890 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "Apple tiene claro su plan para dejar de depender de China: los iPhone 16 Pro nacerán en India",
+    "description": "Apple tiene un plan claro con la producción de sus iPhone: que no dependa al completo de China. Esta estrategia de diversificación le llevó a ensamblar iPhone por valor de 14.000 millones de dólares el pasado año fiscal, según Bloomberg.\n<!-- BREAK 1 -->\nEn o…",
+    "url": "https://www.xataka.com/empresas-y-economia/apple-tiene-claro-su-plan-para-dejar-depender-china-iphone-16-pro-naceran-india",
+    "urlToImage": "https://i.blogs.es/c394ee/original/840_560.jpeg",
+    "publishedAt": "2024-08-20T10:00:58Z",
+    "content": "Apple tiene un plan claro con la producción de sus iPhone: que no dependa al completo de China. Esta estrategia de diversificación le llevó a ensamblar iPhone por valor de 14.000 millones de dólares … [+2186 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "Apple necesita un plan de choque para revitalizar las ventas de móviles: las miradas apuntan al iPhone 17 Air",
+    "description": "iPhone 17 Slim, iPhone 17 Air. Algo se está removiendo en las últimas semanas en el mundillo de la rumorología Apple, y no es para menos. Según Gurman, Apple está preparando un iPhone con un diseño mucho más atractivo que sus hermanos.\n<!-- BREAK 1 -->\n\"El ar…",
+    "url": "https://www.xataka.com/moviles/apple-necesita-plan-choque-para-revitalizar-ventas-moviles-miradas-apuntan-al-iphone-17-air",
+    "urlToImage": "https://i.blogs.es/35fee6/1366_2000-1-/840_560.jpeg",
+    "publishedAt": "2024-08-20T12:16:59Z",
+    "content": "iPhone 17 Slim, iPhone 17 Air. Algo se está removiendo en las últimas semanas en el mundillo de la rumorología Apple, y no es para menos. Según Gurman, Apple está preparando un iPhone con un diseño m… [+4129 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Fran León",
+    "title": "MediaMarkt tumba el precio de este MacBook Air M3 para que la vuelta al trabajo tras las vacaciones sea más productiva",
+    "description": "Si eres fan del sistema operativo macOS y estabas buscando un ordenador para la vuelta a la oficina tras las vacaciones, ahora en PcComponentes, hemos encontrado este en oferta. Se trata del MacBook Air M3 que está disponible a precio mínimo histórico: 1.129 …",
+    "url": "https://www.xataka.com/seleccion/vuelta-al-trabajo-vacaciones-sera-productiva-este-macbook-air-ultima-generacion-oferta",
+    "urlToImage": "https://i.blogs.es/00a4b7/captura-de-pantalla-2024-08-20-a-las-10.07.18/840_560.png",
+    "publishedAt": "2024-08-20T08:46:50Z",
+    "content": "Si eres fan del sistema operativo macOS y estabas buscando un ordenador para la vuelta a la oficina tras las vacaciones, ahora en PcComponentes, hemos encontrado este en oferta. Se trata del MacBook … [+1574 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Yúbal Fernández",
+    "title": "Cómo descargar Fortnite en tu iPhone gratis y paso a paso como la Epic Games Store en iOS",
+    "description": "Vamos a explicarte cómo descargar Fortnite en tu iPhone paso a paso, ahora que Epic Games ya permite hacerlo en iOS en Europa. La causa es la DMA europea, que obliga a Apple a permitir instalar tiendas de aplicaciones secundarias, mediante la cuál luego podrá…",
+    "url": "https://www.xataka.com/basics/como-descargar-fortnite-tu-iphone-gratis-paso-a-paso-como-epic-games-store-ios",
+    "urlToImage": "https://i.blogs.es/287c2b/fornite/840_560.jpeg",
+    "publishedAt": "2024-08-20T09:33:06Z",
+    "content": "Vamos a explicarte cómo descargar Fortnite en tu iPhone paso a paso, ahora que Epic Games ya permite hacerlo en iOS en Europa. La causa es la DMA europea, que obliga a Apple a permitir instalar tiend… [+2350 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Alberto de la Torre",
+    "title": "Nuevo MG ZS Hybrid+: la marca china quiere tener el híbrido del pueblo apuntando directamente a Toyota",
+    "description": "Los planes de MG siguen siendo claros: hacerse con la gama de entrada en todo tipo de tecnología. Están consiguiendo una posición de privilegio con los motores de gasolina, el MG4 Electric pelea por ser el primer coche eléctrico de nuestro país \"entre los mor…",
+    "url": "https://www.xataka.com/movilidad/nuevo-mg-zs-hybrid-caracteristicas-precio-ficha-tecnica",
+    "urlToImage": "https://i.blogs.es/5296fc/mgzshybrid7/840_560.jpeg",
+    "publishedAt": "2024-08-20T09:30:58Z",
+    "content": "Los planes de MG siguen siendo claros: hacerse con la gama de entrada en todo tipo de tecnología. Están consiguiendo una posición de privilegio con los motores de gasolina, el MG4 Electric pelea por … [+5430 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Socialmediaexaminer.com"
+    },
+    "author": "Michael Stelzner",
+    "title": "Generic to Genius: Crafting AI Prompts for Optimal Results",
+    "description": "Wondering why your AI results are missing the mark? Looking for a simple framework to maximize your AI prompting results? In this article, you'll learn how to craft precise AI prompts to save time, deliver value, and boost profitability. The Perfect Prompting…",
+    "url": "https://www.socialmediaexaminer.com/?p=265776",
+    "urlToImage": "https://www.socialmediaexaminer.com/wp-content/uploads/2024/08/Ai_Explored_14_2aARTICLE.jpg",
+    "publishedAt": "2024-08-20T10:00:00Z",
+    "content": "Wondering why your AI results are missing the mark? Looking for a simple framework to maximize your AI prompting results?\r\nIn this article, you'll learn how to craft precise AI prompts to save time, … [+8272 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Simon Cohen",
+    "title": "Bluesound Node Nano review: an affordable, audiophile-grade mini music streamer",
+    "description": "Bluesound's Node Nano is its most affordable hi-res music streamer, and yet it doesn't skimp on what matters most: great sound.",
+    "url": "https://www.digitaltrends.com/home-theater/bluesound-node-nano-review/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/08/bluesound-node-nano-review-00003.jpeg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-08-20T12:00:30Z",
+    "content": "Network music streamers may not be the most thrilling devices to look at (OK, the Wiim Ultra is pretty sweet). But if youve got an older hi-fi system you love, theyre the best way to add modern wirel… [+11242 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Nadeem Sarwar",
+    "title": "The OnePlus Pad 2 is the best Android tablet I’ve used this year",
+    "description": "The OnePlus Pad 2 comes out swinging with a ton of processing firepower, polished accessories, and, above all, an alluring price tag. Is it worth buying?",
+    "url": "https://www.digitaltrends.com/mobile/oneplus-pad-2-review/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/08/One-plus-pad-2-homescreen.jpeg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-08-20T15:00:28Z",
+    "content": "Where is the flagship killer tablet? Samsung has one with its FE tablets. The other compelling options aren’t available in the U.S. Thankfully, the second half of 2024 has graced us with the long-awa… [+19316 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Christine Romero-Chan",
+    "title": "Thinking about buying the Google Pixel 9? Here are 5 reasons to wait for the Pixel 10",
+    "description": "The Google Pixel 9 lineup is definitely impressive so far, but here are a few reasons why you might want to wait for the Pixel 10.",
+    "url": "https://www.digitaltrends.com/mobile/reasons-to-wait-for-google-pixel-10-instead-of-buying-the-pixel-9/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/08/google-pixel-9-hands-on-11.jpeg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-08-20T12:00:30Z",
+    "content": "Google recently gave its Pixel lineup one of the biggest refreshes in years. The new Pixel 9 line now consists of the base model Pixel 9, the Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold.\r\nThis … [+5545 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Simon Cohen",
+    "title": "Bluesound has 3 new hi-res music streamers starting at $299",
+    "description": "Bluesound has expanded its network music streamer lineup with three new Node models for all budgets and sound systems.",
+    "url": "https://www.digitaltrends.com/home-theater/bluesound-node-nano-node-icon/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/08/bluesound-NODE-ICON-2.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-08-20T12:00:44Z",
+    "content": "Bluesound, the wireless multiroom audio company that competes directly with Sonos, has three new options for adding hi-res streaming audio to existing hi-fi systems: the Node Nano ($299), Node ($549)… [+4411 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple Music free trial back to three months if you sign up now",
+    "description": "Those who’ve never tried the service can now get an Apple Music free trial for three months, rather than just one.\n\n\n\nThis is the same deal the company offered when it first launched the streaming music service, but it later reduced it to one month … \n\n\n\n mor…",
+    "url": "https://9to5mac.com/2024/08/20/apple-music-free-trial-three-months/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/Apple-Music-free-trial-back-to-three-months.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-08-20T11:24:47Z",
+    "content": "Those who’ve never tried the service can now get an Apple Music free trial for three months, rather than just one.\r\nThis is the same deal the company offered when it first launched the streaming musi… [+1620 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "iPhone 16 launch will see Apple hit major milestone in reducing dependence on China",
+    "description": "Apple will this year hit a major milestone in its efforts to reduce its manufacturing dependence on China, according to a new report today.\n\n\n\nWhen the iPhone 16 line-up launches, both Pro models will be made in India within weeks of launch, something the com…",
+    "url": "https://9to5mac.com/2024/08/20/iphone-16-launch-major-milestone/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/08/Apple-to-hit-major-milestone-in-reducing-dependence-on-China-with-iPhone-16-launch.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-08-20T11:00:31Z",
+    "content": "Apple will this year hit a major milestone in its efforts to reduce its manufacturing dependence on China, according to a new report today.\r\nWhen the iPhone 16 line-up launches, both Pro models will … [+2056 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Autoblog"
+    },
+    "author": "Ronan Glon",
+    "title": "2025 Can-Am Canyon unveiled as off-roading three-wheeler",
+    "description": "Filed under:\n Motorcycle,Off-Road Vehicles\n Continue reading 2025 Can-Am Canyon unveiled as off-roading three-wheeler\n2025 Can-Am Canyon unveiled as off-roading three-wheeler originally appeared on Autoblog on Tue, 20 Aug 2024 11:05:00 EDT. Please see our ter…",
+    "url": "https://www.autoblog.com/2024/08/20/2025-can-am-canyon-unveiled-as-off-roading-three-wheeler/",
+    "urlToImage": "https://edgecast-img.yahoo.net/mysterio/api/94B339BD41FDFEDDF9E30D77478A83C035C0E6784BE6A2CB549CA4F255D22B9D/autoblog/resizefill_w1200_h675;quality_85;format_webp;cc_31536000;/https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1200x675/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/08/20103110/ONRD-MY25-3WV-CANYON-XT-RIDING-3922-RGB-WEB-16x9r.jpg",
+    "publishedAt": "2024-08-20T15:05:00Z",
+    "content": "Can-Am's range includes four basic types of vehicles: motorcycles, side-by-sides, three-wheelers, and ATVs. If they all merged into one, the final product could look a lot like the new Canyon. It ble… [+2002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Christine McKee)",
+    "title": "Amazon clears out Apple Watch inventory, grab the Series 9 for $299 & Ultra 2 for $699",
+    "description": "Amazon is slashing Apple Watch prices ahead of the September Apple event, resulting in the return of Prime Day pricing on multiple Series 9 and Ultra 2 styles.Amazon is blowing out Apple Watch inventory.As September inches closer, the Apple Watch deals are he…",
+    "url": "https://appleinsider.com/articles/24/08/20/amazon-clears-out-apple-watch-inventory-grab-the-series-9-for-299-ultra-2-for-699",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60747-125055-apple-watch-sale-2024-xl.jpg",
+    "publishedAt": "2024-08-20T14:06:55Z",
+    "content": "Amazon is blowing out Apple Watch inventory.\r\nAmazon is slashing Apple Watch prices ahead of the September Apple event, resulting in the return of Prime Day pricing on multiple Series 9 and Ultra 2 s… [+508 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Mike Wuerthele and Wes Hilliard)",
+    "title": "Apple Vision Pro review: six month stasis",
+    "description": "After six months with Apple Vision Pro, things feel stuck. A glacial rollout of immersive content, a lack of native apps, and no word of Apple Intelligence make the $3,500 product harder to swallow.Apple Vision Pro review: stuck in placeApple Vision Pro is fr…",
+    "url": "https://appleinsider.com/articles/24/08/20/apple-vision-pro-review-six-month-stasis",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60333-124789-VP29-xl.jpg",
+    "publishedAt": "2024-08-20T12:09:49Z",
+    "content": "Apple Vision Pro review: stuck in place\r\nAfter six months with Apple Vision Pro, things feel stuck. A glacial rollout of immersive content, a lack of native apps, and no word of Apple Intelligence ma… [+23497 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Arm-mounted haptics could make future iPhone notifications more discreet",
+    "description": "Even silent alerts can be audible if an Apple Watch haptic engine is too powerful, but Apple has plans to make notifications entirely private.Detail from the patent. Notice the armband and possibly an Apple Bracelet tooYou're at a meeting and it's time for yo…",
+    "url": "https://appleinsider.com/articles/24/08/20/arm-mounted-haptics-could-make-future-iphone-notifications-more-discreet",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60749-125059-000-lede-haptic-d2-xl.jpg",
+    "publishedAt": "2024-08-20T14:52:59Z",
+    "content": "Detail from the patent. Notice the armband and possibly an Apple Bracelet too\r\nEven silent alerts can be audible if an Apple Watch haptic engine is too powerful, but Apple has plans to make notificat… [+2972 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "How new Apple Music subscribers can get three months for free",
+    "description": "New users can now try out Apple Music for three months for free, instead of the normal one month trial. Here's how to get the super-sized music streaming introductory offer.Apple MusicApple offers people who haven't tried Apple Music before a free month's tri…",
+    "url": "https://appleinsider.com/articles/24/08/20/how-new-apple-music-subscribers-can-get-three-months-for-free",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60748-125056-59342-121119-amplaylists-xl-xl.jpg",
+    "publishedAt": "2024-08-20T13:51:54Z",
+    "content": "Apple Music\r\nNew users can now try out Apple Music for three months for free, instead of the normal one month trial. Here's how to get the super-sized music streaming introductory offer. \r\nApple offe… [+1321 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple wants to put touch screens on every MacBook Pro metal surface",
+    "description": "Apple still won't make us a touch-screen Mac, but it is at least considering adding touch-sensitive displays on just about every surface that surrounds the MacBook Pro keyboard as the next best thing.Detail from the patent showing an image of a surprised rabb…",
+    "url": "https://appleinsider.com/articles/24/08/20/apple-wants-to-put-touch-screens-on-every-macbook-pro-metal-surface",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60744-125044-000-lede-MBP-base-displays-xl.jpg",
+    "publishedAt": "2024-08-20T12:34:54Z",
+    "content": "Detail from the patent showing an image of a surprised rabbit perhaps being edited using the smaller displays by the keyboard\r\nApple still won't make us a touch-screen Mac, but it is at least conside… [+3666 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "India will assemble iPhone 16 Pro, iPhone 16 Pro Max for the first time",
+    "description": "Apple is continuing to expand manufacturing in India, and the country will reportedly produce the iPhone 16 Pro and iPhone 16 Pro Max as well as the regular models.Tim Cook visits India in 2016Originally, India only manufactured older iPhones, and then chiefl…",
+    "url": "https://appleinsider.com/articles/24/08/20/india-will-assemble-iphone-16-pro-iphone-16-pro-max-for-the-first-time",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60742-125042-000-lede-Tim-Cook-India-xl.jpg",
+    "publishedAt": "2024-08-20T10:06:23Z",
+    "content": "Tim Cook visits India in 2016\r\nApple is continuing to expand manufacturing in India, and the country will reportedly produce the iPhone 16 Pro and iPhone 16 Pro Max as well as the regular models.\r\nOr… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "iPhone 16, iPhone 16 Pro marketing images seemingly leak weeks before launch",
+    "description": "A series of promotional images for the iPhone 16 have supposedly leaked, blowing the cover off the launch of Apple's 2024 flagship smartphones.Colors of the iPhone 16 Pro according to an image leak [X/Lakhwinder Singh]As time draws closer to when we expect th…",
+    "url": "https://appleinsider.com/articles/24/08/20/iphone-16-pro-marketing-images-seemingly-leak-weeks-before-launch",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60750-125060-iphone16proimagesleaksingh-xl.jpg",
+    "publishedAt": "2024-08-20T14:56:35Z",
+    "content": "Colors of the iPhone 16 Pro according to an image leak [X/Lakhwinder Singh]\r\nA series of promotional images for the iPhone 16 have supposedly leaked, blowing the cover off the launch of Apple's 2024 … [+2107 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Marko Zivkovic)",
+    "title": "iPhone 16 & iPhone 16 Pro -- What Apple's prototypes say is coming",
+    "description": "Apple's iPhone 16 is less than a month away. Here's what's actually known about the upcoming model based on prototypes and leaked internal designs.Apple's iPhone 16 range is set to usher in a series of meaningful hardware improvements and featuresAs the iPhon…",
+    "url": "https://appleinsider.com/articles/24/08/20/iphone-16-iphone-16-pro----what-apples-prototypes-say-is-coming",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60712-125032-60616-124774-headerip16-xl-xl.jpg",
+    "publishedAt": "2024-08-20T11:02:45Z",
+    "content": "Apple's iPhone 16 range is set to usher in a series of meaningful hardware improvements and features\r\nApple's iPhone 16 is less than a month away. Here's what's actually known about the upcoming mode… [+11651 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Photomator and Pixelmator Pro add custom auto-straightening",
+    "description": "Claiming a five-fold improvement in accuracy, image editing developer Pixelmator has replaced Apple's straightening tool with its own for both Pixelmator Pro and Photomator.Photomator works across Mac, iPad, iPhone, and Apple Vision ProPixelmator Pro for the …",
+    "url": "https://appleinsider.com/articles/24/08/20/photomator-and-pixelmator-pro-add-custom-auto-straightening",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/60729-125017-000-lede-Photomator-xl.jpg",
+    "publishedAt": "2024-08-20T13:06:09Z",
+    "content": "Photomator works across Mac, iPad, iPhone, and Apple Vision Pro\r\nClaiming a five-fold improvement in accuracy, image editing developer Pixelmator has replaced Apple's straightening tool with its own … [+1285 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "小暮ひさのり",
+    "title": "iPhone 16発表イベントの招待状リーク。9月10日ですか!?",
+    "description": "Image:MajinBu/Xついに日付までリーク！毎年秋に開催されるApple（アップル）の新製品発表イベント、いわゆるiPhone発表イベント。今年のiPhone16シリーズや、AppleWatchシリーズなどの発表が見込まれています。で、具体的にはいつなんだい？ですよね。まだ確定ではないのですが、実績のあるリーカーからAppleの招待状画像がリークされていました。Accordingtowha",
+    "url": "https://www.gizmodo.jp/2024/08/iphone-16-event-leak.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/08/20/2024-08-20rik02.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2024-08-20T12:30:00Z",
+    "content": "According to what I was told by a source who asked to remain anonymous, the new Apple event where the iPhone 16 will be presented, will be held on September 10 2024. This should be the cover of the i… [+81 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yanko Design"
+    },
+    "author": "Sarang Sheth",
+    "title": "Godox Cube-S: A Tiny Wireless Dual Microphone that Packs a Punch",
+    "description": "Godox Cube-S: A Tiny Wireless Dual Microphone that Packs a PunchThe name Godox is probably most synonymous with innovative lighting solutions, but the company’s new Cube-S wireless microphone marks a sharp pivot into audio that’s...",
+    "url": "https://www.yankodesign.com/2024/08/19/godox-cube-s-a-tiny-wireless-dual-microphone-that-packs-a-punch/",
+    "urlToImage": "https://www.yankodesign.com/images/design_news/2024/08/godox-cube-s-a-tiny-wireless-dual-microphone-that-packs-a-punch/Cube_S_Wireless_Microphone_System_GODOX_hero.jpg",
+    "publishedAt": "2024-08-20T01:45:00Z",
+    "content": "The name Godox is probably most synonymous with innovative lighting solutions, but the companys new Cube-S wireless microphone marks a sharp pivot into audio thats as much about practicality as it is… [+4481 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "tristan carballeda",
+    "title": "Avec cette mise à jour, les casques Quest vont faire de l’ombre à l’Apple Vision Pro",
+    "description": "Meta vient de mettre à jour le logiciel de ses casques de réalité mixte Quest. Ils sont désormais capables d'afficher le contenu d'un ordinateur ou d'un smartphone.",
+    "url": "https://www.journaldugeek.com/2024/08/20/avec-cette-mise-a-jour-les-casques-quest-vont-faire-de-lombre-a-lapple-vision-pro/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/02/zuckerberg-meta-quest-3.jpg",
+    "publishedAt": "2024-08-20T11:03:35Z",
+    "content": "L’une des grandes fonctionnalités de l’Apple Vision Pro, lors de sa présentation l’an dernier, était sa capacité à reproduire un écosystème de travail. Le casque de réalité mixte de la marque à la po… [+2487 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Thomas Estimbre",
+    "title": "Pixel Studio : l’arme de Google pour générer des images sur smartphone",
+    "description": "Lors de l'annonce des Pixel 9, Google a officialisé plusieurs fonctionnalités liées à l'IA. Pixel Studio pourrait bien être la plus impressionnante.",
+    "url": "https://www.journaldugeek.com/2024/08/20/pixel-studio-larme-de-google-pour-generer-des-images-sur-smartphone/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/08/google-pixel-studio-demo-1.jpg",
+    "publishedAt": "2024-08-20T06:04:53Z",
+    "content": "L’annonce de l’été en matière de smartphone nous vient de Mountain View et concerne Google. La firme californienne a officialisé ses quatre nouveaux smartphones : les Pixel 9, Pixel 9 Pro, Pixel 9 Pr… [+2406 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Julie Hay",
+    "title": "Canal+ a un joli cadeau pour tous ses abonnés",
+    "description": "L'entreprise française vient de nouer un partenariat avec un acteur américain de la SVOD.",
+    "url": "https://www.journaldugeek.com/2024/08/20/canal-a-un-joli-cadeau-pour-tous-ses-abonnes/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/08/canal-plus-cadeau-abonnes.jpg",
+    "publishedAt": "2024-08-20T09:13:57Z",
+    "content": "Canal+ n’en finit plus de nouer des partenariats avec ses concurrents directs. L’entreprise française a compris que l’adage “l’union fait la force » lui permettrait de s’imposer comme un acteur essen… [+2859 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Guille Lomener",
+    "title": "Un usuario convierte una réplica del Apple Watch en una GameBoy. Lo ha hecho con Android y es una loca idea que Apple Arcade podría aprovechar",
+    "description": "El Apple Watch es uno de los dispositivos de Apple más deseados junto con el iPhone. Además, el Apple Watch Ultra es el máximo exponente con un diseño único y características únicas. Eso sí, hay que estar dispuestos a dejarse una buena cantidad de euros para …",
+    "url": "https://www.applesfera.com/apple-watch/usuario-convierte-replica-apple-watch-gameboy-ha-hecho-android-loca-idea-que-apple-arcade-podria-aprovechar",
+    "urlToImage": "https://i.blogs.es/760fd2/castelcani/840_560.jpeg",
+    "publishedAt": "2024-08-20T09:09:31Z",
+    "content": "El Apple Watch es uno de los dispositivos de Apple más deseados junto con el iPhone. Además, el Apple Watch Ultra es el máximo exponente con un diseño único y características únicas. Eso sí, hay que … [+3020 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Isra Fdez",
+    "title": "¿Vas a financiar el iPhone 16? Estas son las condiciones de Apple",
+    "description": "Si lees esto, seguro que tendrás ganas de ver el iPhone 16 que será presentado en pocas semanas. Y más aún si ya tienes claro que te lo vas a comprar, claro. Pero con la subida de precios que suelen llegar con cada nuevo modelo, la compra puede asustar a más …",
+    "url": "https://www.applesfera.com/nuevo/vas-a-financiar-iphone-15-estas-condiciones-apple",
+    "urlToImage": "https://i.blogs.es/0729a2/captura-de-pantalla-2023-08-28-a-las-12.58.47/840_560.jpeg",
+    "publishedAt": "2024-08-20T14:02:12Z",
+    "content": "Si lees esto, seguro que tendrás ganas de ver el iPhone 16 que será presentado en pocas semanas. Y más aún si ya tienes claro que te lo vas a comprar, claro. Pero con la subida de precios que suelen … [+4289 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "El iPhone 16 podrá finalmente escanear controles de acceso y ascensores. Y gracias a iOS 18, también otros iPhone",
+    "description": "Durante muchos años, el NFC del iPhone ha estado demasiado limitado. Y es que el chip de comunicación de estos terminales apenas permitía realizar pagos con Apple Pay y unas pocas opciones más, todas ellas controladas por Apple. Sin embargo, de la mano de los…",
+    "url": "https://www.applesfera.com/iphone/iphone-16-podra-finalmente-escanear-controles-acceso-ascensores-gracias-a-ios-18-tambien-otros-iphone",
+    "urlToImage": "https://i.blogs.es/e5c0ba/iphone-ascensor/840_560.jpeg",
+    "publishedAt": "2024-08-20T07:00:48Z",
+    "content": "Durante muchos años, el NFC del iPhone ha estado demasiado limitado. Y es que el chip de comunicación de estos terminales apenas permitía realizar pagos con Apple Pay y unas pocas opciones más, todas… [+3311 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Pedro Aznar",
+    "title": "Annapro A1, análisis: comodidad y ajuste perfectos para Apple Vision Pro",
+    "description": "A pesar que de que sólo lleva 6 meses en el mercado, y no está disponible aún en todos los países, ya se pueden encontrar por internet todo tipo de accesorios para el Apple Vision Pro. En este primer análisis del dispositivo ya mencionaba algunos esenciales p…",
+    "url": "https://www.applesfera.com/vision-pro/annapro-a1-analisis-caracteristicas-precio-especificaciones",
+    "urlToImage": "https://i.blogs.es/465132/portada/840_560.jpeg",
+    "publishedAt": "2024-08-20T15:00:57Z",
+    "content": "A pesar que de que sólo lleva 6 meses en el mercado, y no está disponible aún en todos los países, ya se pueden encontrar por internet todo tipo de accesorios para el Apple Vision Pro. En este primer… [+7559 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Guille Lomener",
+    "title": "Es una joya de la ciencia ficción y la crítica la sentenció como la serie \"perfecta\". ¿Lo mejor? Acaba de renovarse por una segunda temporada",
+    "description": "La plataforma de Apple TV+ cuenta con verdaderas joyas tanto en series como en películas. En Applesfera hemos hablado sobre muchas de ellas, incluso hay películas ganadoras de decenas y decenas de premios. La crítica y los jurados valoran la calidad de todas …",
+    "url": "https://www.applesfera.com/apple-tv/joya-ciencia-ficcion-critica-sentencio-como-serie-perfecta-mejor-acaba-renovarse-segunda-temporada",
+    "urlToImage": "https://i.blogs.es/f04558/materia-oscura-2/840_560.jpeg",
+    "publishedAt": "2024-08-20T12:00:59Z",
+    "content": "La plataforma de Apple TV+ cuenta con verdaderas joyas tanto en series como en películas. En Applesfera hemos hablado sobre muchas de ellas, incluso hay películas ganadoras de decenas y decenas de pr… [+4812 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Guille Lomener",
+    "title": "Huyeron de varios estados tras robar más de 50.000 dólares en iPhone. Los propios productos de Apple fueron su condena",
+    "description": "Robar un iPhone usado tiene poco sentido. Sobre todo porque, con las medidas de protección avanzadas, cada vez es más difícil (o más bien imposible) borrarlos para luego volver a venderlos. La ruta que suelen seguir los iPhone robados, por ejemplo en España, …",
+    "url": "https://www.applesfera.com/general/huyeron-varios-estados-robar-50-000-dolares-iphone-propios-productos-apple-fueron-su-condena",
+    "urlToImage": "https://i.blogs.es/203e61/iphone-robados/840_560.jpeg",
+    "publishedAt": "2024-08-20T11:00:59Z",
+    "content": "Robar un iPhone usado tiene poco sentido. Sobre todo porque, con las medidas de protección avanzadas, cada vez es más difícil (o más bien imposible) borrarlos para luego volver a venderlos. La ruta q… [+2542 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Roberto Méndez",
+    "title": "No son unos AirPods Max, pero estos auriculares Bluetooth Sennheiser con cancelación de ruido y autonomía brutal son un acierto",
+    "description": "Los AirPods Max son, sin lugar a dudas, unos de los auriculares más deseados por cualquier persona que tenga dispositivos de Apple, gracias a su diseño premium y excelente integración con el ecosistema de la marca. Sin embargo, su elevado precio nos lleva a b…",
+    "url": "https://www.applesfera.com/seleccion/no-unos-airpods-max-estos-auriculares-bluetooth-sennheiser-cancelacion-ruido-autonomia-brutal-acierto",
+    "urlToImage": "https://i.blogs.es/864b8f/auriculares-sennheiser-rebajados-a-mejor-precio-amazon-alternativa-mas-economica-airpods-max/840_560.jpeg",
+    "publishedAt": "2024-08-20T10:33:46Z",
+    "content": "Los AirPods Max son, sin lugar a dudas, unos de los auriculares más deseados por cualquier persona que tenga dispositivos de Apple, gracias a su diseño premium y excelente integración con el ecosiste… [+2126 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "En plena guerra comercial con China, TikTok apunta a desaparecer del iPhone en Estados Unidos. Sus portavoces presumen de liberalismo y se lo toman a broma",
+    "description": "Todo lo que tiene de red social gigantesca, lo tiene también de polémica. TikTok vive instalada en la polémica por aspectos como su alto nivel de adicción entre jóvenes (y no tan jóvenes) y, sobre todo, por la forma en la que recopila y almacena los datos de …",
+    "url": "https://www.applesfera.com/aplicaciones-ios-1/plena-guerra-comercial-china-tiktok-apunta-a-desaparecer-iphone-estados-unidos-sus-portavoces-presumen-liberalismo-se-toman-a-broma",
+    "urlToImage": "https://i.blogs.es/bc6350/estados-unidos-tiktok/840_560.jpeg",
+    "publishedAt": "2024-08-20T10:00:58Z",
+    "content": "Todo lo que tiene de red social gigantesca, lo tiene también de polémica. TikTok vive instalada en la polémica por aspectos como su alto nivel de adicción entre jóvenes (y no tan jóvenes) y, sobre to… [+4185 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Estar trabajando con un Mac en una playa parece idílico, pero un estudio descubre que quien teletrabaja hace horas extra en vacaciones",
+    "description": "Existe desde hace años, pero desde que en 2020 explotará la pandemia del COVID-19, el trabajo en remoto está muy estandarizado. De ahí que en algunos empleos, los trabajadores aprovechen para irse a lugares idílicos a trabajar con su MacBook u otro ordenador.…",
+    "url": "https://www.applesfera.com/portatil/estar-trabajando-mac-playa-parece-idilico-estudio-descubre-que-quien-teletrabaja-hace-horas-extra-vacaciones",
+    "urlToImage": "https://i.blogs.es/94c99a/mac-playa/840_560.jpeg",
+    "publishedAt": "2024-08-20T08:02:29Z",
+    "content": "Existe desde hace años, pero desde que en 2020 explotará la pandemia del COVID-19, el trabajo en remoto está muy estandarizado. De ahí que en algunos empleos, los trabajadores aprovechen para irse a … [+3261 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Lando Loic",
+    "title": "8 Settings I Changed to Make My Mac Trackpad and Keyboard Behave Like Windows",
+    "description": "If you switched from Windows to macOS, change these settings to make your transition easier.",
+    "url": "https://www.makeuseof.com/make-mac-trackpad-and-keyboard-behave-like-windows/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/08/a-macbook-with-the-keyboard-and-trackpad-highlighted-alongside-a-macbook-viewed-from-the-back-in-an-environment-with-the-windows-logo.jpg",
+    "publishedAt": "2024-08-20T11:30:12Z",
+    "content": "If you switched from a Windows laptop to a MacBook, you might notice that the keyboard and trackpad feel a bit off. But don't worry because we'll help you customize them to match the Windows setup yo… [+7435 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIYphotography"
+    },
+    "author": "Dunja Djudjic",
+    "title": "You can now help scientists discover black holes with this app",
+    "description": "Have you ever dreamed of contributing to groundbreaking scientific research? Well, now you can! Thanks to a new citizen science app called Black Hole Finder,...\nThe post You can now help scientists discover black holes with this app appeared first on DIY Phot…",
+    "url": "https://www.diyphotography.net/you-can-now-help-scientists-discover-black-holes-with-this-app/",
+    "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2024/08/black-hole-scaled.jpg",
+    "publishedAt": "2024-08-20T14:24:09Z",
+    "content": "Have you ever dreamed of contributing to groundbreaking scientific research? Well, now you can! Thanks to a new citizen science app called Black Hole Finder, you can help astronomers uncover the univ… [+1947 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Theregister.com"
+    },
+    "author": "Thomas Claburn",
+    "title": "Digital wallets can allow purchases with stolen credit cards",
+    "description": "Researchers find it's possible to downgrade authentication checks, and shabby token refresh policies\nDigital wallets like Apple Pay, Google Pay, and PayPal can be used to conduct transactions using stolen and cancelled payment cards, according to academic sec…",
+    "url": "https://www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/",
+    "urlToImage": "https://regmedia.co.uk/2017/03/10/shutterstock_online_shopper_payments.jpg",
+    "publishedAt": "2024-08-20T01:29:47Z",
+    "content": "Digital wallets like Apple Pay, Google Pay, and PayPal can be used to conduct transactions using stolen and cancelled payment cards, according to academic security researchers.\r\nThese flaws some of w… [+6760 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Tyler Lee",
+    "title": "iPhone 16 launch date leaked!",
+    "description": "According to the latest rumors, here is when we can expect Apple to officially launch the iPhone 16 series next month.\nThe post iPhone 16 launch date leaked! appeared first on Phandroid.",
+    "url": "https://phandroid.com/2024/08/20/iphone-16-launch-date-leaked/",
+    "urlToImage": "https://phandroid.com/wp-content/uploads/2023/12/iPhone-12-Pro-Colors.jpg",
+    "publishedAt": "2024-08-20T10:17:30Z",
+    "content": "The iPhone 16 launch is coming soon. When? We dont know for sure. However, a post on X by Majin Bu claims that according to their sources, the iPhone 16 will be officially announced on the 10th of Se… [+1179 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Mike Faust",
+    "title": "Apple Intelligence: Administratoren sollen KI-System einschränken können",
+    "description": "In Apples Gerätemanagement-Dokumentation sind Parameter zur Kontrolle von Apple Intelligence aufgetaucht. (Apple, KI)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fapple-intelligence-administratoren-sollen-ki-system-einschraenken-koennen-2408-188196.html&referer=https%3A%2F%2Ft.co%2Ff0945405e3",
+    "urlToImage": null,
+    "publishedAt": "2024-08-20T13:53:07Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Mental Floss"
+    },
+    "author": "Kaeli Conforti",
+    "title": "8 of the Hardest Restaurants to Get Into In the U.S.",
+    "description": "Contacting the restaurant a few months (or a year) out, calling relentlessly, or stopping by in case of no-shows might do the trick.",
+    "url": "https://www.mentalfloss.com/posts/hardest-restaurants-to-get-into",
+    "urlToImage": null,
+    "publishedAt": "2024-08-20T12:02:00Z",
+    "content": "If watching Patrick Batemans failed attempts to get a reservation at Dorsia in American Psycho (2000) struck a nerve, youre not alone.\r\nYoull need plenty of patience and stamina to get into the best … [+4673 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ritholtz.com"
+    },
+    "author": "Barry Ritholtz",
+    "title": "Transcript: Mike Green, Simplify Asset Management",
+    "description": "The transcript from this week’s, MiB: Mike Greene, Simplify Asset Management, is below. You can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotify, YouTube, and Bloomberg. All of our earlier podcasts on your fa…",
+    "url": "https://ritholtz.com/2024/08/transcript-mike-green/",
+    "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/Mib-tile.png",
+    "publishedAt": "2024-08-20T12:30:23Z",
+    "content": "The transcript from this weeks, MiB: Mike Greene, Simplify Asset Management, is below.\r\nYou can stream and download our full conversation, including any podcast extras, on Apple Podcasts, Spotify, Yo… [+79592 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "Regina G. Barber",
+    "title": "Where did Earth's moon come from? And other moon mysteries",
+    "description": "All summer long, we've been on a 10-episode odyssey through the changing universe (check out the series). We've covered planets, stars, life in space and even the possible ends of the universe. But there was one big set of objects that we skipped over: moons.…",
+    "url": "https://www.npr.org/2024/08/19/1250455743/blue-supermoon-earth-venus-saturn-titan",
+    "urlToImage": "https://media.npr.org/assets/img/2024/08/19/space-camp-bonus_wide-4de0c271bb6410cc4a65cf80f9ca29f51f2e84d3.jpg?s=1400&c=100&f=jpeg",
+    "publishedAt": "2024-08-20T07:00:00Z",
+    "content": "During its 1997 flight, the Galileo spacecraft returned images of the Moon. This color picture is a mosaic assembled from 18 images taken by Galileo's imaging system through a green filter.\r\nNASA/JPL… [+1412 chars]"
+    },
+    {
+    "source": {
+    "id": "die-zeit",
+    "name": "Die Zeit"
+    },
+    "author": "ZEIT ONLINE: News -",
+    "title": "Mikroelektronik: Chip-Riese TSMC beginnt Großprojekt in Dresden",
+    "description": "Hier finden Sie Informationen zu dem Thema „Mikroelektronik“. Lesen Sie jetzt „Chip-Riese TSMC beginnt Großprojekt in Dresden“.",
+    "url": "https://www.zeit.de/news/2024-08/20/chip-riese-tsmc-beginnt-grossprojekt-in-dresden",
+    "urlToImage": "https://img.zeit.de/news/2024-08/20/chip-riese-tsmc-beginnt-grossprojekt-in-dresden-image-group/wide__1300x731",
+    "publishedAt": "2024-08-20T02:00:40Z",
+    "content": "Noch ist nicht viel zu sehen vom neuesten Zukunftsprojekt in Sachsen. Doch in den kommenden Monaten soll es Schlag auf Schlag gehen in Silicon Saxony - so nennt der Freistaat seine Mikroelektronik- u… [+6707 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "alexblake.imore@gmail.com (Alex Blake)",
+    "title": "Control Center has been supercharged in iOS 18 — here’s how to get the most from it",
+    "description": "In iOS 18, Apple has updated Control Center with new tools and features. Here's how to use them all.",
+    "url": "https://www.imore.com/ios/control-center-has-been-supercharged-in-ios-18-heres-how-to-get-the-most-from-it",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/K3B2shCVUowLKwrH64jRXR-1200-80.jpg",
+    "publishedAt": "2024-08-20T10:12:27Z",
+    "content": "The iOS 18 update has brought a lot of changes to all the best iPhones, and one of the most interesting – and wide-ranging – is what’s happened to Control Center. Apple’s quick-access dashboard has h… [+6108 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vox"
+    },
+    "author": "Zack Beauchamp",
+    "title": "How the DNC solved its Joe Biden problem",
+    "description": "With President Joe Biden speaking in the headlining role, the first night of the Democratic convention seemed like it was going to be about passing the torch. And it was — not that the Democrats on stage made that explicit. Biden’s address was late. It began …",
+    "url": "https://www.vox.com/politics/367760/democratic-national-convention-2024-joe-biden-speech",
+    "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166809567.jpg?quality=90&strip=all&crop=0%2C9.4543070499289%2C100%2C81.091385900142&w=1200",
+    "publishedAt": "2024-08-20T06:19:11Z",
+    "content": "With President Joe Biden speaking in the headlining role, the first night of the Democratic convention seemed like it was going to be about passing the torch. And it was not that the Democrats on sta… [+4638 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vox"
+    },
+    "author": "Abdallah Fayyad",
+    "title": "The “prosecutor vs. felon” line isn’t the slam dunk Team Harris thinks it is",
+    "description": "Since launching her presidential bid, Vice President Kamala Harris’s campaign and its supporters have been eager to frame this election as one of a prosecutor versus a felon. It was among the themes of the first night of the Democratic National Convention on …",
+    "url": "https://www.vox.com/politics/367521/harris-trump-prosecutor-versus-felon",
+    "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2165259793.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+    "publishedAt": "2024-08-20T03:16:07Z",
+    "content": "Since launching her presidential bid, Vice President Kamala Harriss campaign and its supporters have been eager to frame this election as one of a prosecutor versus a felon. It was among the themes o… [+9757 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "iPhone 16 Pro Models to Be Assembled in India for the First Time",
+    "description": "Apple is making the iPhone 16 Pro and ‌iPhone 16 Pro‌ Max in India for the first time this year as it looks to diversify production beyond China, according to Bloomberg. \n\n\n\nTear-off tab packaging for ‌iPhone 16 Pro‌ (Image source: Weibo) \n\nApple has reported…",
+    "url": "https://www.macrumors.com/2024/08/20/iphone-16-pro-assembled-india-first-time/",
+    "urlToImage": "https://images.macrumors.com/t/xcTabKWMzOGvrlv91McWob6xGn0=/2000x/article-new/2024/06/iPhone-16-Pro-Front-Update-Blue.jpg",
+    "publishedAt": "2024-08-20T09:01:33Z",
+    "content": "Apple is making the iPhone 16 Pro and ‌iPhone 16 Pro‌ Max in India for the first time this year as it looks to diversify production beyond China, according to Bloomberg. \r\nTear-off tab packaging for … [+849 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Amazon Discounts Entire M2/M3 MacBook Air Lineup With Up to $250 Off and All-Time Low Prices",
+    "description": "Amazon is back this week with a big sale across the MacBook Air lineup, including both the M2 and M3 MacBook Air models. You can find many of the same deals being matched at Best Buy, and you won't need a My Best Buy Plus or Total membership in order to see t…",
+    "url": "https://www.macrumors.com/2024/08/20/amazon-entire-macbook-air-discounts/",
+    "urlToImage": "https://images.macrumors.com/t/yHsFwcEw9WJBTsOfGEQuM3g24_o=/1607x/article-new/2024/04/15-inch-m3-macbook-air.jpg",
+    "publishedAt": "2024-08-20T15:09:02Z",
+    "content": "Amazon is back this week with a big sale across the MacBook Air lineup, including both the M2 and M3 MacBook Air models. You can find many of the same deals being matched at Best Buy, and you won't n… [+1498 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Antoine Roche",
+    "title": "Actualité : Canal+ : le service Paramount+ devient gratuit pour tous les abonnés",
+    "description": "Vous êtes abonnés à Canal+ ? Bonne nouvelle, car la chaîne cryptée vient de rendre disponible le service Paramount+ pour tous, et sans surcoût.",
+    "url": "https://www.lesnumeriques.com/cine-svod/canal-le-service-paramount-devient-gratuit-pour-tous-les-abonnes-n225382.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/news/22/225382/94d2eaed-canal-propose-desormais-paramount-sans-surcout-a-ses-abonnes_png__1200_678__0-363-1816-1316.jpg",
+    "publishedAt": "2024-08-20T11:00:00Z",
+    "content": "Paramount+ dans Canal+, c'est désormais disponible pour tous.\r\n© Canal+ / Paramount\r\nCe mardi 20 août, par la voix de son PDG Maxime Saada, le Groupe Canal+ a annoncé \"un enrichissement majeur\" de so… [+2344 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Les Numériques"
+    },
+    "author": "Aurélien Piot",
+    "title": "Test Renault Symbioz iconic full hybrid 145 : un bon SUV hybride que l'on ne vous conseille pas",
+    "description": "Le Renault Symbioz se présente comme une voiture à vivre. Ce SUV compact reprend la base du Captur, mais arbore des dimensions pas si éloignées de celles de l'Austral. Il se montre toutefois plus accessible.",
+    "url": "https://www.lesnumeriques.com/voiture/renault-symbioz-iconic-full-hybrid-145-p75277/test.html",
+    "urlToImage": "https://cdn.lesnumeriques.com/optim/test/22/223739/237995ee-nda-20-08-a-08-35-renault-symbioz-iconic-full-hybrid-145__1200_678__0-295-2160-1429_wtmk.jpg",
+    "publishedAt": "2024-08-20T06:30:00Z",
+    "content": "Certes, le Captur (segment B) a connu un succès immédiat, mais Renault a eu plus de mal à se faire une place sur le marché des SUV compacts et familiaux. Le Koleos (segment D) n'a jamais trouvé ses c… [+9116 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xatakamovil.com"
+    },
+    "author": "Pepu Ricca",
+    "title": "Google adelanta a Apple con su IA: mientras Apple Intelligence se retrasa, Gemini Live comienza a llegar ya",
+    "description": "La Inteligencia Artificial para móviles sigue dando de qué hablar: Google, en su reciente presentación de los Pixel 9, sigue presumiendo de una Gemini que añade más 'superpoderes'. Y no solo vive de su renovado asistente, pues ha lanzado nuevas apps de IA com…",
+    "url": "https://www.xatakamovil.com/movil-y-sociedad/google-adelanta-a-apple-su-ia-apple-intelligence-se-retrasa-gemini-live-comienza-a-llegar",
+    "urlToImage": "https://i.blogs.es/7a58ea/gemini-live-apple-intelligence/840_560.jpeg",
+    "publishedAt": "2024-08-20T14:01:00Z",
+    "content": "La Inteligencia Artificial para móviles sigue dando de qué hablar: Google, en su reciente presentación de los Pixel 9, sigue presumiendo de una Gemini que añade más 'superpoderes'. Y no solo vive de … [+3282 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xatakamovil.com"
+    },
+    "author": "Sergio Asenjo",
+    "title": "Apple Podcasts ya está disponible en versión web. Funciona en Android y en cualquier navegador web",
+    "description": "Apple Podcast es la aplicación de podcasts de Apple disponible en los dispositivos de la compañía y la app que muchos utilizan para escuchar sus programas favoritos. Hasta el momento solo era posible acceder al servicio a través de la app, lo que significa qu…",
+    "url": "https://www.xatakamovil.com/servicios/apple-podcasts-esta-disponible-version-web-funciona-android-cualquier-navegador-web",
+    "urlToImage": "https://i.blogs.es/791718/apple-podcasts-web-portada/840_560.jpeg",
+    "publishedAt": "2024-08-20T08:30:49Z",
+    "content": "Apple Podcast es la aplicación de podcasts de Apple disponible en los dispositivos de la compañía y la app que muchos utilizan para escuchar sus programas favoritos. Hasta el momento solo era posible… [+2770 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Stereogum"
+    },
+    "author": "Chris DeVille",
+    "title": "Mary Lattimore, clipping., Kelly Moran, & More Contribute To New White Noise App Fuzzzel",
+    "description": "Fuzzzel is a new “artisanal white noise” app from esteemed music journalist, software developer, and Stereogum contributor Christopher R. Weingarten, who has rounded up an impressive cast of contributors for today’s launch. Oscar-nominated composer and arrang…",
+    "url": "https://www.stereogum.com/2276748/mary-lattimore-clipping-kelly-moran-more-contribute-to-new-white-noise-app-fuzzzel/news/",
+    "urlToImage": "https://static.stereogum.com/uploads/2024/08/screenshot-1724103474.jpg",
+    "publishedAt": "2024-08-20T13:30:03Z",
+    "content": "Fuzzzel is a new “artisanal white noise” app from esteemed music journalist, software developer, and Stereogum contributor Christopher R. Weingarten, who has rounded up an impressive cast of contribu… [+5018 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "IndieWire"
+    },
+    "author": "Tom Brueggemann",
+    "title": "As ‘Twisters’ Leads VOD, Studios Are Getting Better at Timing Their Streaming Debuts for #1",
+    "description": "Next week, it will be \"Inside Out 2.\" Studios are getting better at timing their VOD debuts for #1.",
+    "url": "https://www.indiewire.com/news/box-office/twisters-is-the-top-film-home-streaming-not-for-long-1235037885/",
+    "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/07/2571_D024_00486R.jpg?w=650",
+    "publishedAt": "2024-08-20T14:00:00Z",
+    "content": "For the sixth straight Monday, a new and different film is #1 on VOD at both iTunes and Fandango. “Twisters” (Universal), which grossed almost $10 million in theaters last weekend, is the latest summ… [+4161 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "IndieWire"
+    },
+    "author": "Samantha Bergeson",
+    "title": "DOC NYC Unveils 40 Under 40 List of Filmmakers to Watch",
+    "description": "Exclusive: The top rising documentarians are feted with the annual honor.",
+    "url": "https://www.indiewire.com/news/breaking-news/doc-nyc-40-under-40-list-2024-1235038188/",
+    "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/08/Daughters_00_58_46_19.png?w=650",
+    "publishedAt": "2024-08-20T13:00:00Z",
+    "content": "IndieWire can exclusively unveil the official 2024 DOC NYC 40 Under 40 list of rising filmmakers.\r\nThe annual honor celebrates young creatives that are making an impact in the field of documentary, r… [+16751 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Ulrich Rozier",
+    "title": "Apple se prépare à initier un changement technologique important",
+    "description": "Dans les coulisses d'Apple, une révolution technologique se prépare. L'entreprise investit des milliards pour créer ses propres modems, et ainsi défier le géant Qualcomm.",
+    "url": "https://www.frandroid.com/marques/apple/2309244_apple-se-prepare-a-initier-un-changement-technologique-important",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/08/iphone-1200x675-1.jpg",
+    "publishedAt": "2024-08-20T06:31:01Z",
+    "content": "Dans les coulisses d’Apple, une révolution technologique se prépare. L’entreprise investit des milliards pour créer ses propres modems, et ainsi défier le géant Qualcomm.\r\nApple s’apprêterait à boule… [+4358 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Noémie Koskas",
+    "title": "Amazon casse déjà le prix de cette nouvelle serrure connectée compatible Matter et Apple Home Key",
+    "description": "La serrure connectée Aqara Smart Lock U200 sait rendre les portes intelligentes et permet de les déverrouiller de plusieurs façons différentes, y compris à l'aide de son iPhone. Un modèle complet que l'on trouve actuellement à un bon prix sur Amazon : 215,99 …",
+    "url": "https://www.frandroid.com/bons-plans/2309282_amazon-casse-deja-le-prix-de-cette-nouvelle-serrure-connectee-compatible-matter-et-apple-home-key",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/08/aqara-u200-1200x655-1.jpg",
+    "publishedAt": "2024-08-20T09:36:47Z",
+    "content": "La serrure connectée Aqara Smart Lock U200 sait rendre les portes intelligentes et permet de les déverrouiller de plusieurs façons différentes, y compris à l’aide de son iPhone. Un modèle complet que… [+3862 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Axel Savoye",
+    "title": "Canal+ fait sa rentrée avec l’arrivée de Paramount+ sur toutes ses offres et du Pass Coupes d’Europe",
+    "description": "Après s'être offert le catalogue d'Apple TV+, celui de Paramount+ débarque dans toutes les formules d'abonnement de Canal+. Tous les abonnés à la chaîne de Vivendi ont désormais accès à une flopée de séries et de cartoons sans payer de frais supplémentaires.",
+    "url": "https://www.frandroid.com/services/svod/2309662_canal-fait-sa-rentree-avec-larrivee-de-paramount-sur-toutes-ses-offres-et-du-pass-coupes-deurope",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/08/canal-et-paramount.jpg",
+    "publishedAt": "2024-08-20T14:30:01Z",
+    "content": "Après s’être offert le catalogue d’Apple TV+, celui de Paramount+ débarque dans toutes les formules d’abonnement de Canal+. Tous les abonnés à la chaîne de Vivendi ont désormais accès à une flopée de… [+3939 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Frandroid"
+    },
+    "author": "Ulrich Rozier",
+    "title": "La charge sans fil des smartphones va passer à 50 watts, mais ça ne va pas être simple",
+    "description": "La recharge sans fil n'est plus une nouveauté, mais avec l'arrivée du Qi2, elle prend une toute nouvelle dimension. Par contre, son déploiement est plus compliqué que prévu.",
+    "url": "https://www.frandroid.com/produits-android/smartphone/2309284_la-charge-sans-fil-des-smartphones-va-passer-a-50-watts-mais-ca-ne-va-pas-etre-simple",
+    "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/08/What-is-Qi-2-Charging-Gear-1200x900-1.webp",
+    "publishedAt": "2024-08-20T07:59:59Z",
+    "content": "La recharge sans fil n’est plus une nouveauté, mais avec l’arrivée du Qi2, elle prend une toute nouvelle dimension. Par contre, son déploiement est plus compliqué que prévu.\r\nQui l’eût cru ? Le Qi2 f… [+4590 chars]"
+    },
+    {
+    "source": {
+    "id": "lenta",
+    "name": "Lenta"
+    },
+    "author": "Андрей Ставицкий",
+    "title": "Apple потратила миллиарды на улучшение iPhone",
+    "description": "Корпорация Apple продолжила вкладывать гигантские ресурсы в создание модема для iPhone и iPad. Об этом сообщает Bloomberg",
+    "url": "https://lenta.ru/news/2024/08/20/modem/",
+    "urlToImage": "https://icdn.lenta.ru/images/2024/08/19/13/20240819135513244/share_34ddad2ef3f90e0052c00e6b290316ef.jpg",
+    "publishedAt": "2024-08-20T06:25:36Z",
+    "content": "Apple iPhone iPad. Bloomberg.\r\n, . Apple Qualcomm, .\r\n , . , Qualcomm , . .\r\n Bloomberg , Apple , . , , Wi-Fi Bluetooth.\r\n Apple Qualcomm 2027 . , Qualcomm.\r\n iPhone 16 25 . ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Slickdeals.net"
+    },
+    "author": "persian_mafia",
+    "title": "The Godfather Trilogy (Digital 4K UHD Films) $10",
+    "description": "Apple iTunes has The Godfather Trilogy (Digital 4K UHD Films) for $9.99.\r\n\r\nThanks to Deal Editor persian_mafia for posting this deal.\r\n\r\nNote: These titles are not Movies Anywhere (MA) eligible.  ...",
+    "url": "https://slickdeals.net/f/17702850-the-godfather-trilogy-digital-4k-uhd-films-10",
+    "urlToImage": "https://static.slickdealscdn.com/attachment/2/8/9/1/1/16011786.attach",
+    "publishedAt": "2024-08-20T04:45:51Z",
+    "content": "Apple iTunes has The Godfather Trilogy (Digital 4K UHD Films) for $9.99.Thanks to Deal Editor persian_mafia for posting this deal.\r\nNote: These titles are not\r\n Movies Anywhere (MA) eligible. Must pu… [+466 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "何晓涵",
+    "title": "早报|网易云音乐回应崩了：没有删库跑路/《黑神话：悟空》今日上线，预售超 4 亿/极氪法务部：近期出现大量谣言，已报警",
+    "description": "· 零一万物与顺丰科技达成生态合作\n· 高合汽车发布售后服务公告\n· SpaceX 确认 8 月 26 日发射，将首次执行太空行走任务#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1596583",
+    "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/cao_di_xi_nao_ren_cover.jpg",
+    "publishedAt": "2024-08-20T00:33:36Z",
+    "content": "4 \r\n4 8 19 \r\n 8 14 43%\r\n Steam 268 328 300 \r\n IP IP\r\n SteamWeGamePS5 \r\niPhone 16 Pro \r\nX Majin Bu iPhone 16 ProiPhone 16 Pro Max \r\niPhone 16 Pro iPhone 16 Pro \r\n iPhone 15 Pro iPhone 15 Pro \r\niPad Ap… [+785 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Quartz India"
+    },
+    "author": "Rocio Fabbro",
+    "title": "Kamala Harris plans to roll back Trump-era corporate tax cuts",
+    "description": "Vice President Kamala Harris would partially reel in a Trump-era corporate tax cut that has given major U.S. companies a big, years-long break.Read more...",
+    "url": "https://qz.com/harris-campaign-corporate-tax-rate-trump-administration-1851626708",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8303354e750f6ef85cb1f2a01dbcb49f.jpg",
+    "publishedAt": "2024-08-20T14:40:00Z",
+    "content": "In This Story\r\nVice President Kamala Harris would partially reel in a Trump-era corporate tax cut that has given major U.S. companies a big, years-long break.\r\nThe Democratic presidential nominee wou… [+2193 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "GSMArena.com"
+    },
+    "author": "Michail",
+    "title": "In a historic first Apple will assemble iPhone 16 Pro models in India",
+    "description": "The upcoming iPhone 16 Pro series will be made in India, marking a first for Apple’s Pro series iPhone production outside of China. According to a new report from Bloomberg, Foxconn India will start manufacturing the upcoming iPhone 16 Pro and 16 Pro Max at i…",
+    "url": "https://www.gsmarena.com/apple_to_assemble_iphone_16_pro_and_pro_max_in_india-news-64194.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/08/apple-iphone-16-pro-india-report/-952x498w6/gsmarena_000.jpg",
+    "publishedAt": "2024-08-20T08:17:01Z",
+    "content": "The upcoming iPhone 16 Pro series will be made in India, marking a first for Apples Pro series iPhone production outside of China. According to a new report from Bloomberg, Foxconn India will start m… [+519 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PCWorld"
+    },
+    "author": "Michael Crider",
+    "title": "Our favorite low-cost ultrawide monitor is now cheaper than ever",
+    "description": "The Gigabyte GS34WQC is PCWorld’s pick for the best budget ultrawide gaming monitor on the market. At its regular $400 retail price, it’s already a good deal. At its oft-seen sale price of $300, it’s a steal.\r\n\n\n\n\nBut today you can get it on Amazon for the cr…",
+    "url": "https://www.pcworld.com/article/2431952/gigabytes-ultrawide-gaming-monitor-is-cheaper-than-ever-at-264.html",
+    "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/08/gigabyte-gs34wqc-1.jpg?quality=50&strip=all&w=1024",
+    "publishedAt": "2024-08-20T13:58:42Z",
+    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe Gigabyte GS34WQC… [+2057 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PCWorld"
+    },
+    "author": "Michael Crider",
+    "title": "New G-Sync gaming monitors won’t need a separate module anymore",
+    "description": "Monitors with Nvidia’s G-Sync technology, which syncs full frames between the graphics card and display panel to prevent tearing, are more expensive than their AMD FreeSync counterparts. That’s because full G-Sync capabilities require an extra electronics boa…",
+    "url": "https://www.pcworld.com/article/2431978/new-g-sync-gaming-monitors-wont-need-a-separate-module.html",
+    "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/08/nvidia-gsync-module.jpg?quality=50&strip=all&w=1024",
+    "publishedAt": "2024-08-20T14:32:39Z",
+    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nMonitors with Nvidia… [+2311 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PCWorld"
+    },
+    "author": "Jon Martindale",
+    "title": "4 eco-friendly ways to get rid of a laptop",
+    "description": "When a laptop has finally outlived its usefulness, it can be tempting to discard it, both mentally and literally, and move on to your next laptop that’s better, faster, lighter. It’s an exciting time!\r\n\n\n\n\nBut before you do, hold on. Don’t just throw your old…",
+    "url": "https://www.pcworld.com/article/2413662/how-to-dispose-of-your-laptop-in-an-eco-friendlier-way.html",
+    "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/08/windows-11-trash-edited.jpg?quality=50&strip=all&w=1024",
+    "publishedAt": "2024-08-20T14:00:00Z",
+    "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWhen a laptop has fi… [+5972 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Minimalistbaker.com"
+    },
+    "author": "Dana @ Minimalist Baker",
+    "title": "Kale Apple Slaw with Dijon Vinaigrette",
+    "description": "When salad season and apple season collide, make this QUICK kale apple slaw! It’s sweet, crunchy, zippy, versatile, and comes together in just 10 minutes.\nIt’s the perfect simple side to pair with your favorite protein + roasted veggies…or for brightening up …",
+    "url": "https://minimalistbaker.com/kale-apple-slaw-with-dijon-vinaigrette/",
+    "urlToImage": "https://minimalistbaker.com/wp-content/uploads/2023/09/Kale-Apple-Slaw-with-Dijon-Vinaigrette-4.jpg",
+    "publishedAt": "2024-08-20T08:00:00Z",
+    "content": "When salad season and apple season collide, make this QUICK kale apple slaw! Its sweet, crunchy, zippy, versatile, and comes together in just 10 minutes.\r\nIts the perfect simple side to pair with you… [+3078 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smartworld.it"
+    },
+    "author": "Antonio Lepore",
+    "title": "Ecco la collezione di telefoni più grande al mondo: migliaia di dispositivi, anche prototipi!",
+    "description": "Wences Palau Fernandez detiene il record mondiale della più grande collezione di telefoni: 3.615 dispositivi, tra cui molti Nokia e versioni esclusive\r\nL'articolo Ecco la collezione di telefoni più grande al mondo: migliaia di dispositivi, anche prototipi! se…",
+    "url": "https://www.smartworld.it/news/record-collezione-smartphone.html",
+    "urlToImage": "https://www.smartworld.it/images/2024/08/20/collezione-record-smartphone_1200x675.jpg",
+    "publishedAt": "2024-08-20T11:39:00Z",
+    "content": "I cellulari, poi evoluti in smartphone, fin dal loro debutto hanno occupato un ruolo sempre più fondamentale nelle nostre vite. In qualcuna, però, ancora di più. Ad esempio, in quella dello spagnolo … [+2470 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Smartworld.it"
+    },
+    "author": "Alessandro Nodari",
+    "title": "AMD vuole battere NVIDIA sull'IA sfidandola sul suo stesso terreno: i data center",
+    "description": "Il dominio di NVIDIA sull'IA è assoluto, ma AMD vuole metterlo in discussione con l'acquisizione di ZT Systems: scoprite in che modo e a che prezzo\r\nL'articolo AMD vuole battere NVIDIA sull'IA sfidandola sul suo stesso terreno: i data center sembra essere il …",
+    "url": "https://www.smartworld.it/news/amd-compra-zt-systems-sfida-nvidia-data-center.html",
+    "urlToImage": "https://www.smartworld.it/images/2024/08/20/amd_1200x675.jpg",
+    "publishedAt": "2024-08-20T12:53:00Z",
+    "content": "Come abbiamo dichiarato nella nostra prova di NVIDIA RTX 4080 Super, per fare l'IA ci vuole la GPU, ma in realtà la questione è molto più profonda di così. La stragrande maggioranza dell'IA viene ese… [+4514 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Nellie Andreeva",
+    "title": "J.J. Abrams’ Bad Robot In Negotiations With Warner Bros. To Extend Film & TV Deal",
+    "description": "The tenure of J.J. Abrams’ Bad Robot at Warner Bros. Television is expected to cross the 20-year mark. The company is in advanced negotiations with Warner Bros. to re-up its film and TV deal with the studio, sources tell Deadline. The pending multi-year exten…",
+    "url": "http://deadline.com/2024/08/jj-abrams-bad-robot-warner-bros-film-tv-deal-extension-1236044367/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/08/JJAbrams.jpeg?w=1024",
+    "publishedAt": "2024-08-20T04:01:08Z",
+    "content": "The tenure of J.J. Abrams’ Bad Robot at Warner Bros. Television is expected to cross the 20-year mark. The company is in advanced negotiations with Warner Bros. to re-up its film and TV deal with the… [+2490 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Dade Hayes",
+    "title": "Netflix Closes Upfront Sales, Citing Gains In Line With Its Expectations",
+    "description": "Netflix said it has wrapped up its upfront ad negotiations, posting a 150% increase in sales commitments over 2023, in line with company expectations. The presence of ads on the world’s leading streaming service is a new phenomenon, of course, putting an aste…",
+    "url": "http://deadline.com/2024/08/netflix-closes-upfront-ad-sales-citing-gains-over-2023-1236044708/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/07/netflix-sunset-HQ-sign-GETTY.jpg?w=1024",
+    "publishedAt": "2024-08-20T14:05:32Z",
+    "content": "Netflix said it has wrapped up its upfront ad negotiations, posting a 150% increase in sales commitments over 2023, in line with company expectations.\r\nThe presence of ads on the world’s leading stre… [+1849 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Netzpolitik.org"
+    },
+    "author": "Martin Schwarzbeck",
+    "title": "Digitale Selbstverteidigung: So geht sichere Kommunikation",
+    "description": "Vertrauliche Kommunikation ist ein menschliches Grundbedürfnis. – Public Domain Midjourney\r\nWie man Informationen so übers Internet weitergibt, dass nur die Zielpersonen sie erfahren. Und wie man sein Telefon gegen Staatstrojanerangriffe abhärten kann.",
+    "url": "https://netzpolitik.org/2024/digitale-selbstverteidigung-so-geht-sichere-kommunikation/",
+    "urlToImage": "https://cdn.netzpolitik.org/wp-upload/2024/08/netzpolitik.org_two_persons_gender_unclear_telephoning_with_m_2ee92f6d-483d-4bc3-87d2-039c7e0c94cb_2-1200x675.png",
+    "publishedAt": "2024-08-20T08:19:03Z",
+    "content": "Bei den meisten Menschen läuft ein großer Teil der Kommunikation via E-Mail, vor allem beruflich. Und diese Mails kommen nicht nur beim Adressaten, sondern potenziell beim W-LAN-Anbieter, dem E-Mail-… [+12860 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New Atlas"
+    },
+    "author": "Paul Ridden",
+    "title": "Can-Am returns to two wheels with electric city and off-road motos",
+    "description": "Can-Am may be a name associated with four-wheel utility vehicles and moto-trikes, but the brand began by making two-wheelers. Now Can-Am Motorcycles is back for the electric transport age with the launch of the 2025 Pulse and Origin.Continue ReadingCategory: …",
+    "url": "https://newatlas.com/motorcycles/can-am-pulse-origin-electric-motorcycle/",
+    "urlToImage": "https://assets.newatlas.com/dims4/default/32141d9/2147483647/strip/true/crop/3840x2016+0+72/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd7%2Fb1%2F1d627e2b4dc8a36f87813fdc3890%2Fonrd-2wv-my25-pulse-73-action-a009c003-240608-r3w0-rgb.jpg&na.image_optimisation=0",
+    "publishedAt": "2024-08-20T14:17:00Z",
+    "content": "Can-Am may be a name associated with four-wheel utility vehicles and moto-trikes, but the brand began by making two-wheelers. Now Can-Am Motorcycles is back for the electric transport age with the la… [+4102 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Creative Bloq"
+    },
+    "author": "georgia.coggan@futurenet.com (Georgia Coggan)",
+    "title": "The last-gen iPad crashes to $199 for first time ever",
+    "description": "That means 40% off a brilliant basic tablet.",
+    "url": "https://www.creativebloq.com/tech/phones-tablets/the-last-gen-ipad-crashes-to-199-for-first-time-ever",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/f7XhUCrw7ymK8dCJS4E364-1200-80.jpg",
+    "publishedAt": "2024-08-20T12:00:00Z",
+    "content": "iPad (9th Gen, 10.2-inch, 64GB)Was: $329Now: $199 at Amazon Save: $130\r\nOverview: The Apple iPad 9th gen was released in late 2021. The large display is great for browsing and watching movies, and th… [+917 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "Apple ID se renueva: cambiará de nombre por primera vez en la historia el mes que viene",
+    "description": "iOS 18 no solo traerá cambios importantes como la personalización de la pantalla de inicio, el Centro de Control o la posibilidad de bloquear u ocultar aplicaciones; también cambiará el nombre del Apple ID por primera vez en la historia. Cuando Apple lance la…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/apple-id-se-renueva-cambiara-de-nombre-por-primera-vez-en-la-historia-el-mes-que-viene",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/cuenta-de-apple-ios-18.jpeg?width=1200",
+    "publishedAt": "2024-08-20T12:47:21Z",
+    "content": "Apple ID cambiará de nombre cuando se lance iOS 18\r\niOS 18 no solo traerá cambios importantes como la personalización de la pantalla de inicio, el Centro de Control o la posibilidad de bloquear u ocu… [+1993 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "Apple Podcasts ya tiene su propia versión web",
+    "description": "Apple ha lanzado recientemente la versión web de su app Podcasts, lo que significa que, a partir de ahora, también podrás escuchar los episodios de tus podcasts favoritos a través de Safari, Chrome y otros navegadores. Es una muy buena noticia para aquellos u…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/apple-podcasts-ya-tiene-su-propia-version-web",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/app-podcasts-version-web.jpg?width=1200",
+    "publishedAt": "2024-08-20T06:59:09Z",
+    "content": "Apple Podcasts ya se puede usar desde Safari, Chrome y otros navegadores\r\nAppleha lanzado recientemente la versión web de su app Podcasts, lo que significa que, a partir de ahora, también podrás escu… [+2333 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "El Apple Watch Series 8 se desploma y ahora cuesta casi lo mismo que el modelo SE",
+    "description": "Lo bueno que tienen los productos de Apple es que duran mucho en el tiempo y comprar un dispositivo lanzado años atrás siempre es una muy buena opción, porque por un precio mucho más reducido, te puedes hacer con un muy buen dispositivo. Como el Apple Watch S…",
+    "url": "https://www.lavanguardia.com/andro4all/ofertas/el-apple-watch-series-8-se-desploma-y-ahora-cuesta-casi-lo-mismo-que-el-modelo-se",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/apple-watch-series-8.jpeg?width=1200",
+    "publishedAt": "2024-08-20T12:30:44Z",
+    "content": "El Apple Watch Series 8 cuenta con todas las especificaciones que puedes esperar\r\nLo bueno que tienen los productos de Apple es que duran mucho en el tiempo y comprar un dispositivo lanzado años atrá… [+2959 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Ilan Cherre",
+    "title": "Pasar el aspirador nunca más volverá a ser aburrido: solo necesitas un Apple Vision Pro",
+    "description": "La utilidad del Apple Vision Pro reside en la enorme cantidad de posibilidades que son capaces de ofrecer. En líneas generales, estas gafas de realidad mixta permiten a los usuarios interactuar con el mundo que les rodea y, por supuesto, al mismo tiempo disfr…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/pasar-el-aspirador-nunca-mas-volvera-a-ser-aburrido-solo-necesitas-un-apple-vision-pro",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/pasar-el-aspirador-nunca-mas-volvera-a-ser-aburrido-solo-necesitas-un-apple-vision-pro.jpg?width=1200",
+    "publishedAt": "2024-08-20T13:15:15Z",
+    "content": "Aspirar puede ser divertido si tienes un Apple Vison Pro\r\nLa utilidad del Apple Vision Pro reside en la enorme cantidad de posibilidades que son capaces de ofrecer. En líneas generales, estas gafas d… [+3037 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "iOS 17.6.2 está a punto de lanzarse: podría llegar tan pronto como esta semana",
+    "description": "Apple estaría trabajando en el lanzamiento de iOS 17.6.2 para el iPhone, que podría llegar tan pronto como esta semana. Esta nueva versión, al igual que las anteriores, incluiría correcciones de errores y mejoras en el rendimiento y la estabilidad de los disp…",
+    "url": "https://www.lavanguardia.com/andro4all/apple/ios-17-6-2-esta-a-punto-de-lanzarse-podria-llegar-tan-pronto-como-esta-semana",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/ios-176.jpg?width=1200",
+    "publishedAt": "2024-08-20T10:21:12Z",
+    "content": "iOS 17.6.2 llegará con correcciones que mejorarán la experiencia con el iPhone\r\nApple estaría trabajando en el lanzamiento de iOS 17.6.2 para el iPhone, que podría llegar tan pronto como esta semana.… [+1787 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Fran Besora",
+    "title": "Casi 150 euros menos por el iPhone 15 Plus: 6,7 pulgadas, A16 Bionic y cámara de 48 MP",
+    "description": "¿En busca de un nuevo iPhone? Déjame decirte que en estos momentos, uno de los modelos que tendrías que tener en el radar es el iPhone 15 Plus. Y por muchos motivos. En primer lugar, cambia mucho respecto a la anterior generación en varios aspectos y, en segu…",
+    "url": "https://www.lavanguardia.com/andro4all/ofertas/casi-150-euros-menos-por-el-iphone-15-plus-67-pulgadas-a16-bionic-y-camara-de-48-mp",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/iphone-15-plus-oferta-979-amazon.jpg?width=1200",
+    "publishedAt": "2024-08-20T08:30:57Z",
+    "content": "El iPhone 15 Plus destaca en pantalla, cámara, potencia y batería\r\n¿En busca de un nuevo iPhone? Déjame decirte que en estos momentos, uno de los modelos que tendrías que tener en el radar es el iPho… [+3483 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Ilan Cherre",
+    "title": "Google lo deja claro: el procesador Tensor G4 del Pixel 9 no fue creado para ser el más rápido en los benchmarks",
+    "description": "La nueva familia Pixel 9 integra el Tensor G4, siendo el procesador creado por Google para ser su nuevo referente en esta generación de dispositivos. Eso sí, esto no significa que el Tensor G4 haya sido creado para batir a rivales que llegan de la mano de Qua…",
+    "url": "https://www.lavanguardia.com/andro4all/google-pixel/google-lo-deja-claro-el-procesador-tensor-g4-del-pixel-9-no-fue-creado-para-ser-el-mas-rapido-en-los-benchmarks",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/08/google-lo-deja-claro-el-procesador-tensor-g4-del-pixel-9-no-fue-creado-para-ser-el-mas-rapido-en-los-benchmarks.png?width=1200",
+    "publishedAt": "2024-08-20T08:58:19Z",
+    "content": "El Tensor G4 de Google no está hecho para ser el procesador más potente del mercado\r\nLa nueva familia Pixel 9 integra el Tensor G4, siendo el procesador creado por Google para ser su nuevo referente … [+2527 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": "スタパ齋藤",
+    "title": "[スタパ齋藤のApple野郎]ベルキンの「BoostCharge Pro」を購入したゼ！　Apple Watchも充電できるモバイルバッテリー!!!",
+    "description": "久々にちょっと遠出……と思ったら、あらまApple Watchの電池残量が僅少！　本日後半はバッテリーが保たないかもしれない〜。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1616458.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1616/458/stpapl2024-08-21thumbnail.jpg",
+    "publishedAt": "2024-08-20T15:00:00Z",
+    "content": "Apple Watch \r\n !!!!!!(belkin)Apple Watch+iPhoneValet Charger Power Pack 6700mAh!!! \r\n Apple WatchApple WatchApple WatchApple Watch \r\n 20168 \r\n USBAmicroUSB \r\n microUSBUSB-A \r\n USB-CUSB-CUSB-C \r\n !!!!… [+263 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Clubic"
+    },
+    "author": "Stéphane Ficca",
+    "title": "Après Maps, Apple lance ses podcasts sur le Web",
+    "description": "En déployant ses Podcasts sur le web, Apple permet à ceux qui le souhaitent d'accéder à leurs programmes favoris, même en étant éloignés de leur iPhone, iPad et/ou Mac.",
+    "url": "https://www.clubic.com/actualite-535178-apres-maps-apple-lance-ses-podcasts-sur-le-web.html",
+    "urlToImage": "https://pic.clubic.com/v1/images/2006871/raw",
+    "publishedAt": "2024-08-20T14:08:00Z",
+    "content": "Dans un même ordre d'idée, Apple réserve quelques fonctionnalités à son écosystème maison. Parmi les absences à signaler, cette version web ne propose pas de gestion de téléchargements par exemple, n… [+318 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Clubic"
+    },
+    "author": "Samir Rahmoune",
+    "title": "Apple Music offre (temporairement) trois mois d'abonnement gratuit",
+    "description": "Le service de streaming musical Apple Music lance une offre très intéressante. Trois mois gratuits vont être proposés pour les nouveaux arrivants.",
+    "url": "https://www.clubic.com/actualite-535166-apple-music-offre-temporairement-trois-mois-d-abonnement-gratuit.html",
+    "urlToImage": "https://pic.clubic.com/v1/images/2008770/raw",
+    "publishedAt": "2024-08-20T05:33:00Z",
+    "content": "Et ce n'est pas la seule condition qui est introduite pour pouvoir bénéficier de ces trois mois sans ouvrir votre portefeuille. Cet essai longue durée est en effet réservé aux personnes qui s'abonnen… [+597 chars]"
+    }
+    ]
+    }
